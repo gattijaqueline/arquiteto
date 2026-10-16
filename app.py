@@ -225,4 +225,4 @@ if btn_processar:
             st.info(
                 "💡 **Dica de Solução de Problemas:**\n"
                 "- Certifique-se de que o endpoint não contenha aspas ou barras extras.\n"
-                "- Verifique se a sua rede corporativa ou VPN não está bloqueando requisições HTTPS para `services.ai.azure.com`."
+                "- Verifique se a sua rede corporativa ou VPN não está bloqueando requisições HTTPS para `services.ai.azure.com`.")
